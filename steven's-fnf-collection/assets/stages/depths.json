@@ -1,0 +1,10 @@
+{
+	"directory": "weekqt",
+	"defaultZoom": 0.5,
+	"isPixelStage": false,
+	"hide_girlfriend": true,
+
+	"boyfriend": [770, 100],
+	"girlfriend": [400, 130],
+	"opponent": [100, 100]
+}

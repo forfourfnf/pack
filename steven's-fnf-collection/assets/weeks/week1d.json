@@ -1,0 +1,47 @@
+{
+	"songs": [
+		[
+			"d-Bopeebo",
+			"dadd",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"d-Fresh",
+			"dadd",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"d-dad-battle",
+			"dadd",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "stage",
+
+	"storyName": "Guest star",
+	"weekBefore": "tutorial",
+	"weekName": "Week 1d",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"section": "dsides"
+}

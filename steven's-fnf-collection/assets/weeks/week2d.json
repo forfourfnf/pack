@@ -1,0 +1,56 @@
+{
+	"songs": [
+		[
+			"d-Spookeez",
+			"spookyd",
+			[
+				34,
+				51,
+				68
+			]
+		],
+		[
+			"d-South",
+			"spookyd",
+			[
+				34,
+				51,
+				68
+			]
+		],
+		[
+			"d-ghastly",
+			"spookyd",
+			[
+				34,
+				51,
+				68
+			]
+		],
+		[
+			"d-Monster",
+			"monsterd",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+
+	"weekCharacters": [
+		"spooky",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "halloween",
+
+	"storyName": "Sweet scares",
+	"weekBefore": "week1d",
+	"weekName": "Week 2",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"section": "dsides"
+}
