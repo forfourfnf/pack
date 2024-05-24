@@ -1,0 +1,16 @@
+{
+    "chars": [
+        ["bf", "BF", "BOYFRIEND"],
+        ["bf-christmas", "Holiday BF", "bfChristmas"],
+        ["bf-car", "Car BF", "bfCar"],
+        ["bf-holding-gf", "BF and GF", "bfAndGF"],
+        ["bf-pixel", "Pixel BF", "bfPixel"],
+        ["pico-player", "Pico", "Pico_FNF_assetss"],
+	    ["bf-retro", "Retro BF", "BOYFRIEND_RETRO"],
+	    ["bfmii", "BF Mii", "BOYFRIENDMII"],
+        ["bf-salt", "Salty", "bfSalt"],
+        ["fun-whitty", "Fun-Sized Whitty", "fun-whitty"],
+		["peter", "Peter Griffin", "peter-griffin"],
+        ["chase", "Chase", "chase"]
+    ]
+}

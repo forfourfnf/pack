@@ -1,0 +1,23 @@
+{
+	"songs": [
+		["Foolhardy", "zardy", [0, 135, 0]],
+		["Bushwhack", "zardydark", [0, 135, 0]]
+	],
+
+	"weekCharacters": [
+		"zardy",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "maze",
+
+	"storyName": "Zardy's Maze",
+	"weekBefore": "week7",
+	"weekName": "Week Corn",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false,
+	"weekMod": "zar",
+	"difficulties": "Normal"
+}

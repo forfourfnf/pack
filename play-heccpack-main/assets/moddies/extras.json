@@ -1,0 +1,9 @@
+{
+    "id": "ext",
+    "name": "Extra Songs",
+    "weeks": [
+        "nword",
+        "obama"
+    ],
+    "modBefore": ""
+}
